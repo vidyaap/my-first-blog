@@ -25,7 +25,7 @@ SECRET_KEY = '*p(_+qmk)fm)95oswbpve+kmxc(2%66xb2+x-!32eal4quno&2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'vakavoor.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'vidyaap.pythonanywhere.com']
 
 
 # Application definition
